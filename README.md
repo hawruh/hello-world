@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+github seems pretty useful
