@@ -1,2 +1,1 @@
-# hello-world
-github seems pretty useful
+# Hello world
